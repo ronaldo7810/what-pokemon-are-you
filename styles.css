@@ -1,0 +1,39 @@
+h1{
+ text-align:center;
+ font-size:50px;
+ color:red;
+}
+
+body{
+background-image: url(https://wallpaperaccess.com/full/109332.jpg);
+color:white;
+font-size:30px;
+text-align:center;
+}
+
+button{
+width:70px;
+border-color:white;
+background-color:white;
+}
+.container{
+ position:relative;
+}
+input{
+ height:18px;   
+}
+#title{
+ color:red; 
+ font-size:50px;
+}
+#answer{
+ color:red;  
+ font-size:80px;
+}
+#picAnswer{
+height:500px;
+width:500px;
+}
+
+
+
